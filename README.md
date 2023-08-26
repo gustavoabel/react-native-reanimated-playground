@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/1881059/159564299-70d98608-6526-4437-ab51-6dc719d541e2.jpg">
-</p>
-
-<h1 align="center">React Native Template / Boilerplate</h1>
-<h3 align="center">Bleeding 🔪 Edge 🌉 Night<s>ly</s>mare 🌃 Edition</h3>
-<h6 align="center">““”̿ ̿ ̿ ̿ ̿’̿’̵͇̿̿з=(*▽*)=ε/̵͇̿̿/̿ ̿ ̿ ̿ ̿’““</h6>
-<h6 align="center">IDKFA</h6>
-
 <div align="center">
 
 [![NPM RN pkg ver](https://img.shields.io/badge/React%20Native-0.71.12-red.svg)](https://github.com/facebook/react-native/releases)
