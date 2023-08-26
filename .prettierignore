@@ -1,0 +1,10 @@
+# TypeScript
+#
+tsconfig.json
+lib/
+
+# Github
+.github
+
+# Storybook
+.storybook/storybook.requires.js
